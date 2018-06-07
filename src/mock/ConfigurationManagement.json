@@ -1,0 +1,20 @@
+{
+	"configure_data_1": [
+        {
+            "configureName":"管理员密码位数",
+            "configureValue":"8"
+        }, 
+        {
+            "configureName":"管理员登录尝试次数",
+            "configureValue":"5"
+        }, 
+        {
+            "configureName":"管理员登录达到尝试次数限制后几分钟内不能登录",
+            "configureValue":"1"
+        }, 
+        {
+            "configureName":"管理员修改密码最大间隔天数",
+            "configureValue":"7"
+        }
+    ]
+}

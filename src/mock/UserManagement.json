@@ -1,0 +1,16 @@
+{
+	"user_data_1": [
+	    {
+	        "userName":"admin",
+	        "userType":"安全保密管理员"
+	    }, 
+	    {
+	        "userName":"admin2",
+	        "userType":"安全审计员"
+	    }, 
+	    {
+	        "userName":"admin3",
+	        "userType":"系统管理员"
+	    }
+	]
+}
